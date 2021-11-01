@@ -1,0 +1,17 @@
+{
+    "node_name": "consulclient",
+    "ui_config": {
+        "enabled" : true
+    },
+    "data_dir": "/consul/data",
+    "addresses": {
+        "http" : "0.0.0.0"
+    },
+    "log_level": "INFO",
+    "enable_syslog": true,
+    "retry_join":[
+        "172.20.20.11",
+        "172.20.20.12",
+        "172.20.20.13"
+    ]
+}

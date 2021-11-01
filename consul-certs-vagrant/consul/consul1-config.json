@@ -1,0 +1,20 @@
+{
+    "node_name": "consul-server1",
+    "server": true,
+    "bootstrap_expect": 3,
+    "datacenter": "dc1",
+    "ui_config": {
+        "enabled" : true
+    },
+    "log_level": "INFO",
+    "enable_syslog": true,
+    "data_dir": "/consul/data",
+    "addresses": {
+        "http" : "0.0.0.0"
+    },
+    "retry_join":[
+        "172.20.20.11",
+        "172.20.20.12",
+        "172.20.20.13"
+    ]
+}

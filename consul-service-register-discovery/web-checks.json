@@ -1,0 +1,16 @@
+{
+"service": {
+    "name": "web-check",
+    "tags": [
+      "rails"
+    ],
+    "port": 8080,
+    "check": {
+      "args": [
+        "curl",
+        "localhost"
+      ],
+      "interval": "10s"
+    }
+  }
+}

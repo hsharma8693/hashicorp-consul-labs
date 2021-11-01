@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/consul-k8s-l7-obs-guide" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/consul-k8s-prometheus-grafana-hashicups-demoapp" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/learn-consul-docker" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/learn-consul-hcs-on-azure" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/learn-consul-k8s-hashicups" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/learn-consul-k8s-l7-obs-guide" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/learn-consul-k8s-prometheus-grafana-hashicups-demoapp" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/learn-consul-kubernetes" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/learn-consul-service-mesh" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/learn-consul-terraform" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/learn-consul-vms" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/learn-hcp-consul" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/learn-terraform-multicloud-kubernetes-consul" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/learn-terraform-pipelines-consul" vcs="Git" />
+  </component>
+</project>
