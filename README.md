@@ -9,8 +9,8 @@ Docker or Vagrant or by directly creating Server/Client Configuration file on AW
 
 - [Docker Compose](https://docs.docker.com/compose/)
 - [Docker](https://docs.docker.com/get-docker/)
-- [Consul] (https://www.consul.io/downloads)
-- [Vagrant] (https://www.vagrantup.com/downloads)
+- [Consul](https://www.consul.io/downloads)
+- [Vagrant](https://www.vagrantup.com/downloads)
 
 ## Demo Script Guide For Docker related Labs 
 
